@@ -1,0 +1,11 @@
+[project]
+name = "ia-criminal"
+version = "0.1.0"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "jinja2",
+    "requests",
+    "python-dotenv",
+    "python-multipart>=0.0.21",
+]
